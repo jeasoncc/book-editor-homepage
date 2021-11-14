@@ -1,7 +1,7 @@
 # 小密圈码字，为优雅，简洁的创造性写作而生。
 
-> ![alt text](https://s3.bmp.ovh/imgs/2021/11/0ac68db29370b739.jpg)
-> 欢迎各位作者为我提bug
+![alt text](https://s3.bmp.ovh/imgs/2021/11/0ac68db29370b739.jpg)
+ 欢迎各位作者为我提bug
 
 ## 为什么要自己做一款写作软件
 
