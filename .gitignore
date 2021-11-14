@@ -10,7 +10,8 @@ src/licenses.json
 public/precache-manifest.*
 public/workbox-*
 public/fonts/*
-
+.pnpm*
+.parcel*
 .env
 .env.build
 .vercel
