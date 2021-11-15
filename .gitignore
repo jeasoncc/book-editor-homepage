@@ -16,3 +16,4 @@ public/fonts/*
 .env.build
 .vercel
 .vscode
+.cache

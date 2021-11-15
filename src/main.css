@@ -1,0 +1,13 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+
+@tailwind utilities;
+
+/* body {
+    background: red;
+} */
+body {
+    background: #EFCAC4;
+}

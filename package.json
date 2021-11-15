@@ -4,8 +4,8 @@
   "description": "> ![alt text](https://s3.bmp.ovh/imgs/2021/11/0ac68db29370b739.jpg) > 欢迎各位作者为我提bug",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel index.html",
-    "build": "parcel build index.html -d build",
+    "dev": "parcel ./src/index.html",
+    "build": "rm -rf build && parcel build ./src/index.html -d build --no-source-maps --public-url ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +23,7 @@
     "@tailwindcss/postcss7-compat": "^2.2.17",
     "autoprefixer": "^9",
     "postcss": "^7",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "typed.js": "^2.0.12"
   }
 }
