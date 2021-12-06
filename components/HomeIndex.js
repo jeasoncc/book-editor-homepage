@@ -1,7 +1,4 @@
-import React, {useRef, useEffect, useState, useCallback} from "react";
-// import {mojs} from "@mojs/core";
-import Image from 'next/image'
-import imgUrl from "./../assert/image/山脉星空.svg";
+import {useRef, useEffect} from "react";
 import Typed from 'typed.js';
 /**
  * Usage:
@@ -38,7 +35,8 @@ const MojsExample = ({duration}) => {
                     </div>
                     <div className="flex items-center justify-start md:justify-center">
                         <div className="avatar w-40">
-                            <Image src={imgUrl} alt="Photo of Praveen Juge"/>
+                            
+                            <img src="/image/绿色星空.svg" alt="Photo of Praveen Juge" width={200} height={200}/>
                         </div>
                         <div className="ml-4">
                             <p className="mb-1 text-xs font-semibold tracking-widest text-gray-800 uppercase">柳堂先生</p>

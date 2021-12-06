@@ -48,7 +48,4 @@
 - 跨平台体验，支持Mac 、Win、 Linux 还有Android
 
 
-<<<<<<< HEAD
     
-=======
->>>>>>> 19ef31ceef3edfd134eb2644c70452c7b1f4772f
