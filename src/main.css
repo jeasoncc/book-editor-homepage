@@ -1,0 +1,9 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+@tailwind utilities;
+@import url("./../node_modules/fullpage.js/dist/fullpage.min.css");
+#section1 {
+    /* background: #C2BB9B; */
+}
