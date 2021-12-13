@@ -6,7 +6,7 @@ const VersionComponent = ({duration}) => {
     return (
         <>
             <Head>
-                <title>Create Next App</title>
+                <title>小密圈写作</title>
                 <link rel="icon" href="/favicon.ico"/>
             </Head>
             <Header/>

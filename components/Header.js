@@ -24,7 +24,9 @@ const HeaderComponent = ({duration}) => {
                         <Link href="/about-author"> 
                             <a className="mr-5 hover:text-gray-900">关于作者</a>
                         </Link>
-                        
+                        <Link href="/about-author"> 
+                            <a className="mr-5 hover:text-gray-900">特别感谢</a>
+                        </Link>
                         <Link href="/version">
                             <a className="mr-5 hover:text-gray-900">版本更新记录</a>
                         </Link>
